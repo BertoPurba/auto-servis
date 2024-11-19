@@ -111,14 +111,29 @@ if( isset($_POST["submit"]) ){
 
                     <div class="col-md-6 col-lg-6">
                     <?php if ($levelLogin !== 'admin'): ?>
-    <div class="form-group">
-        <label for="servis_biaya_jasa_teknisi">Biaya Jasa Servis Teknisi (%)</label>
-        <input type="number" name="servis_biaya_jasa_teknisi" class="form-control" id="servis_biaya_jasa_teknisi" placeholder="Input Persentase Jasa Teknisi (contoh: 10)" required>
+
+                      <div class="form-group">
+    <label for="servis_biaya_profit">Biaya Bengkel (Rp)</label>
+    <input type="number" name="servis_biaya_profit" class="form-control" id="servis_biaya_profit" placeholder="Input Nominal Keuntungan Bengkel" required>
     </div>
-    <div class="form-group">
-        <label for="servis_biaya_profit">Biaya Profit Bengkel (Rp)</label>
-        <input type="number" name="servis_biaya_profit" class="form-control" id="servis_biaya_profit" placeholder="Input Nominal Keuntungan Bengkel" required>
-    </div>
+                      <div class="form-group">
+    <label for="servis_biaya_jasa_teknisi">Biaya Jasa Servis Teknisi (%)</label>
+    <select name="servis_biaya_jasa_teknisi" class="form-control" id="servis_biaya_jasa_teknisi" required>
+    <option value="">Pilih Persentase</option>
+        <option value="10">10%</option>
+        <option value="20">20%</option>
+        <option value="30">30%</option>
+        <option value="40">40%</option>
+        <option value="50">50%</option>
+        <option value="60">60%</option>
+        <option value="70">70%</option> 
+        <option value="80">80%</option>
+        <option value="90">90%</option>
+        <option value="100">100%</option>
+    </select>
+</div>
+
+
 <?php endif; ?>
 
 
