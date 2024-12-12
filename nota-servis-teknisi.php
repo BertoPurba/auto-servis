@@ -15,11 +15,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Nota Cetak POS SERVIS - Seniman Koding</title>
+	<title>Nota Cetak POS SERVIS - Metromatika</title>
 	<meta charset=utf-8>
 	<meta name=description content="">
 	<meta name=viewport content="width=device-width, initial-scale=1">
-  <link rel="icon" type="img/png" sizes="32x32" href="https://senimankoding.com/assets/img/favicon.png">
+  <link rel="icon" type="img/png" sizes="32x32" href="https://metromatika.com/assets/img/favicon.png">
 	<!-- Tempusdominus Bootstrap 3 -->
     <link rel="stylesheet" type="text/css" href="dist/css/bootstrap-3.min.css">
     <!-- Font Awesome -->
@@ -313,7 +313,7 @@
                     <div class="nzb-footer-box">
                         <div class="nota-box-footer">
                             <div class="nbf-text">
-                                Powered By:  www.senimankoding.com
+                                Powered By:  www.metromatika.com
                             </div>
                             <!-- <div class="nbf-url"></div> -->
                         </div>

@@ -415,7 +415,7 @@
               </div>
 
               <div class="text-center">
-                © <?= date("Y"); ?> Copyright www.senimankoding.com All rights reserved.
+                © <?= date("Y"); ?> Copyright www.metromatika.com All rights reserved.
               </div>
         </div>
     </section>

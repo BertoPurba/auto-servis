@@ -736,14 +736,14 @@ CREATE TABLE `user` (
   PRIMARY KEY (`user_id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=18 DEFAULT CHARSET=latin1;
 
-INSERT INTO user VALUES("3","Seniman Koding","086798890000","Surabaya","senimankoding@gmail.com","6afd3b745ca3190e8b318e043a28c239","30 March 2020 9:17:00 pm","super admin","0","0","0","1","0");
+INSERT INTO user VALUES("3","Metromatika","086798890000","Surabaya","senimankoding@gmail.com","6afd3b745ca3190e8b318e043a28c239","30 March 2020 9:17:00 pm","super admin","0","0","0","1","0");
 INSERT INTO user VALUES("5","Doni Asrul Afandi","085780956487","Surabaya","doniasrulafandi@gmail.com","bccb26dc1e77cc8047cb3b6385b96bf2","08 April 2020 3:40:08 pm","admin","0","0","0","1","0");
-INSERT INTO user VALUES("7","Naga Afandi ","086798890000","Surabaya","superadmin@senimankoding.com","550e1bafe077ff0b0b67f4e32f29d751","16 April 2020 9:31:04 pm","super admin","0","0","0","0","0");
-INSERT INTO user VALUES("8","Doni Afandi","085780956487","Surabaya","admin@senimankoding.com","6afd3b745ca3190e8b318e043a28c239","16 April 2020 9:32:06 pm","admin","0","0","0","1","0");
-INSERT INTO user VALUES("12","Kurir Pusat Budi","082299878989","Kediri jln pahlawan","kurir@senimankoding.com","6afd3b745ca3190e8b318e043a28c239","18 August 2021 5:21:01 pm","kurir","0","0","0","1","0");
-INSERT INTO user VALUES("13","Rinto","08229908789","Surabaya Jawa Timur","kurir2@senimankoding.com","bccb26dc1e77cc8047cb3b6385b96bf2","19 August 2021 5:53:02 pm","kurir","0","0","0","1","0");
-INSERT INTO user VALUES("14","Pak Sucripto","08229978909","Surabaya Jawa Timur Indonesia","kurir3@senimankoding.com","6afd3b745ca3190e8b318e043a28c239","21 August 2021 10:38:10 am","kurir","0","0","0","1","0");
-INSERT INTO user VALUES("15","Kasir","087654567809","Surabaya","kasir@senimankoding.com","6afd3b745ca3190e8b318e043a28c239","04 September 2021 1:31:34 pm","kasir","500000","0","0","1","0");
-INSERT INTO user VALUES("16","Super Admin Cabang 1","0812240935345","Surabaya","cabang1@senimankoding.com","6afd3b745ca3190e8b318e043a28c239","10 November 2021 10:37:41 pm","super admin","0","0","0","1","1");
-INSERT INTO user VALUES("17","Afan T","082276790999","Surabaya","teknisi@senimankoding.com","6afd3b745ca3190e8b318e043a28c239","08 December 2021 2:58:14 pm","teknisi","1500000","2000000","60","1","0");
+INSERT INTO user VALUES("7","Naga Afandi ","086798890000","Surabaya","superadmin@metromatika.com","550e1bafe077ff0b0b67f4e32f29d751","16 April 2020 9:31:04 pm","super admin","0","0","0","0","0");
+INSERT INTO user VALUES("8","Doni Afandi","085780956487","Surabaya","admin@metromatika.com","6afd3b745ca3190e8b318e043a28c239","16 April 2020 9:32:06 pm","admin","0","0","0","1","0");
+INSERT INTO user VALUES("12","Kurir Pusat Budi","082299878989","Kediri jln pahlawan","kurir@metromatika.com","6afd3b745ca3190e8b318e043a28c239","18 August 2021 5:21:01 pm","kurir","0","0","0","1","0");
+INSERT INTO user VALUES("13","Rinto","08229908789","Surabaya Jawa Timur","kurir2@metromatika.com","bccb26dc1e77cc8047cb3b6385b96bf2","19 August 2021 5:53:02 pm","kurir","0","0","0","1","0");
+INSERT INTO user VALUES("14","Pak Sucripto","08229978909","Surabaya Jawa Timur Indonesia","kurir3@metromatika.com","6afd3b745ca3190e8b318e043a28c239","21 August 2021 10:38:10 am","kurir","0","0","0","1","0");
+INSERT INTO user VALUES("15","Kasir","087654567809","Surabaya","kasir@metromatika.com","6afd3b745ca3190e8b318e043a28c239","04 September 2021 1:31:34 pm","kasir","500000","0","0","1","0");
+INSERT INTO user VALUES("16","Super Admin Cabang 1","0812240935345","Surabaya","cabang1@metromatika.com","6afd3b745ca3190e8b318e043a28c239","10 November 2021 10:37:41 pm","super admin","0","0","0","1","1");
+INSERT INTO user VALUES("17","Afan T","082276790999","Surabaya","teknisi@metromatika.com","6afd3b745ca3190e8b318e043a28c239","08 December 2021 2:58:14 pm","teknisi","1500000","2000000","60","1","0");
 
