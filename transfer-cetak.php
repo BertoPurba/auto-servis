@@ -201,7 +201,7 @@
       </div><!-- /.container-fluid -->
     </section>
     <div class="text-center">
-      © <?= date("Y"); ?> Copyright www.senimankoding.com All rights reserved.
+      © <?= date("Y"); ?> Copyright www.metromatika.com All rights reserved.
     </div>
     <!-- /.content -->
   </div>

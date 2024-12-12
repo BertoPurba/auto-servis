@@ -922,13 +922,13 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`user_id`, `user_nama`, `user_no_hp`, `user_alamat`, `user_email`, `user_password`, `user_create`, `user_level`, `user_gaji_pokok`, `user_bonus`, `user_status`, `user_cabang_parent`, `user_cabang`) VALUES
-(3, 'Seniman Koding', '086798890000', 'Surabaya', 'senimankoding@gmail.com', '6afd3b745ca3190e8b318e043a28c239', '30 March 2020 9:17:00 pm', 'super admin', 0, 0, '1', 0, 0),
-(7, 'Naga Afandi ', '086798890000', 'Surabaya', 'superadmin@senimankoding.com', '550e1bafe077ff0b0b67f4e32f29d751', '16 April 2020 9:31:04 pm', 'super admin', 0, 0, '0', 0, 0),
-(8, 'Doni Afandi', '085780956487', 'Surabaya', 'admin@senimankoding.com', '6afd3b745ca3190e8b318e043a28c239', '16 April 2020 9:32:06 pm', 'admin', 0, 0, '1', 0, 0),
-(15, 'Kasir', '087654567809', 'Surabaya', 'kasir@senimankoding.com', '6afd3b745ca3190e8b318e043a28c239', '04 September 2021 1:31:34 pm', 'kasir', 500000, 0, '1', 0, 0),
-(17, 'Afan T', '082276790999', 'Surabaya', 'mekanik@senimankoding.com', '6afd3b745ca3190e8b318e043a28c239', '08 December 2021 2:58:14 pm', 'mekanik', 1500000, 100000, '1', 0, 0),
-(18, 'Teknisi 2', '096796796776', 'Surabaya', 'teknisi2@senimankoding.com', '6afd3b745ca3190e8b318e043a28c239', '30 January 2022 6:56:29 pm', 'teknisi', 0, 0, '1', 0, 0),
-(22, 'Resita', '085789651299', 'Surabaya', 'kasirpusat@senimankoding.com', '6afd3b745ca3190e8b318e043a28c239', '16 September 2022 1:29:43 pm', 'kasir', 0, 0, '1', 0, 0);
+(3, 'Metromatika', '086798890000', 'Surabaya', 'senimankoding@gmail.com', '6afd3b745ca3190e8b318e043a28c239', '30 March 2020 9:17:00 pm', 'super admin', 0, 0, '1', 0, 0),
+(7, 'Naga Afandi ', '086798890000', 'Surabaya', 'superadmin@metromatika.com', '550e1bafe077ff0b0b67f4e32f29d751', '16 April 2020 9:31:04 pm', 'super admin', 0, 0, '0', 0, 0),
+(8, 'Doni Afandi', '085780956487', 'Surabaya', 'admin@metromatika.com', '6afd3b745ca3190e8b318e043a28c239', '16 April 2020 9:32:06 pm', 'admin', 0, 0, '1', 0, 0),
+(15, 'Kasir', '087654567809', 'Surabaya', 'kasir@metromatika.com', '6afd3b745ca3190e8b318e043a28c239', '04 September 2021 1:31:34 pm', 'kasir', 500000, 0, '1', 0, 0),
+(17, 'Afan T', '082276790999', 'Surabaya', 'mekanik@metromatika.com', '6afd3b745ca3190e8b318e043a28c239', '08 December 2021 2:58:14 pm', 'mekanik', 1500000, 100000, '1', 0, 0),
+(18, 'Teknisi 2', '096796796776', 'Surabaya', 'teknisi2@metromatika.com', '6afd3b745ca3190e8b318e043a28c239', '30 January 2022 6:56:29 pm', 'teknisi', 0, 0, '1', 0, 0),
+(22, 'Resita', '085789651299', 'Surabaya', 'kasirpusat@metromatika.com', '6afd3b745ca3190e8b318e043a28c239', '16 September 2022 1:29:43 pm', 'kasir', 0, 0, '1', 0, 0);
 
 --
 -- Indexes for dumped tables

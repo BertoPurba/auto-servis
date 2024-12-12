@@ -691,7 +691,7 @@
   <?php  if ( $levelLogin !== "mekanik") { ?>
   <section class="kasir-bo">
     <a href="beli-langsung">
-      <img src="dist/img/kasir.png" alt="POS Seniman Koding" class="img-fluid"> 
+      <img src="dist/img/kasir.png" alt="POS Metromatika" class="img-fluid"> 
     </a>   
   </section>
   <?php } ?>

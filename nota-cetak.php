@@ -14,7 +14,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Nota Cetak POS - Seniman Koding</title>
+	<title>Nota Cetak POS - Metromatika</title>
 	<meta charset=utf-8>
 	<meta name=description content="">
 	<meta name=viewport content="width=device-width, initial-scale=1">
@@ -265,7 +265,7 @@
 					Powered By
 				</div>
 				<div class="nbf-url">
-					www.senimankoding.com
+					www.metromatika.com
 				</div>
 			</div>
 		</div>
@@ -475,7 +475,7 @@
                     <div class="nzb-footer-box">
                         <div class="nota-box-footer">
                             <div class="nbf-text">
-                                Powered By: www.senimankoding.com
+                                Powered By: www.metromatika.com
                             </div>
                         </div>
                     </div>

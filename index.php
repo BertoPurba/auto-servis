@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>POS BENGKEL - Seniman Koding</title>
+	<title>POS BENGKEL - Metromatika</title>
 	<meta charset="UTF-8">
-	<meta name="description" content="POS BENGKEL Seniman Koding adalah Software Kasir dengan fitur lengkap dan support Multi cabang dengan manajemen servis hp & komputer. POS BENGKEL Seniman Koding adalah software POS BENGKEL Kasir multi user dengan fitur yang mempuni. aplikasi kasir, software retail, software minimarket, aplikasi supermarket, aplikasi retail, aplikasi kasir online, aplikasi kasir berbasis website">
-	<meta name="keyword" content="POS BENGKEL Seniman Koding adalah Software Kasir dengan fitur lengkap dan support Multi cabang, aplikasi kasir, software retail, software minimarket, aplikasi supermarket, aplikasi retail, aplikasi kasir online, aplikasi kasir berbasis website">
+	<meta name="description" content="POS BENGKEL Metromatika adalah Software Kasir dengan fitur lengkap dan support Multi cabang dengan manajemen servis hp & komputer. POS BENGKEL Metromatika adalah software POS BENGKEL Kasir multi user dengan fitur yang mempuni. aplikasi kasir, software retail, software minimarket, aplikasi supermarket, aplikasi retail, aplikasi kasir online, aplikasi kasir berbasis website">
+	<meta name="keyword" content="POS BENGKEL Metromatika adalah Software Kasir dengan fitur lengkap dan support Multi cabang, aplikasi kasir, software retail, software minimarket, aplikasi supermarket, aplikasi retail, aplikasi kasir online, aplikasi kasir berbasis website">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<meta property="og:image" content="http://senimankoding.com/assets/img/logo.jpg" />
+	<meta property="og:image" content="http://metromatika.com/assets/img/logo.jpg" />
 	<!-- Favicon -->
-	<link rel="icon" type="img/png" sizes="32x32" href="http://senimankoding.com/assets/img/favicon.png">
+	<link rel="icon" type="img/png" sizes="32x32" href="http://metromatika.com/assets/img/favicon.png">
 
 	<link rel="stylesheet" type="text/css" href="assets-login/vendor/bootstrap/css/bootstrap.min.css">
 
@@ -40,7 +40,7 @@
 			<div class="wrap-login100">
 				<form class="login100-form validate-form" action="aksi/login" method="post">
 					<span class="login100-form-title p-b-43">
-						<b>POS BENGKEL</b> Seniman Koding
+						<b>POS BENGKEL</b> Metromatika
 					</span>
 					
 					
@@ -71,7 +71,7 @@
 
 					<div class="text-center p-t-46 p-b-20">
 						<span class="txt2">
-							<a href="http://senimankoding.com/" target="_blank">www.senimankoding.com</a>
+							<a href="http://metromatika.com/" target="_blank">www.metromatika.com</a>
 						</span>
 					</div>
 				</form>
